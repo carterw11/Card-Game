@@ -41,6 +41,8 @@ After gaining enough experience, you level up, giving you extra health, a choice
 ## How to run the game
 To run the game, download all the files into the same directory, and have all the images under a foler called "images" in the same directory as the python file.
 
+This game was made on python3, earlier versions may not work.
+
 Make sure to install TKinter and Pillow.
 
 Run the python file, create an account, and begin playing the game.
